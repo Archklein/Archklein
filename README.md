@@ -18,7 +18,7 @@ I am a JET at the Philippine College of Technology, working hard for my tuition 
 ###  My GitHub Stats
 &nbsp;
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kleinerrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kleinerrr's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Archklein&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kleinerrr's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleinerrr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
@@ -29,7 +29,7 @@ I am a JET at the Philippine College of Technology, working hard for my tuition 
 
 ###  Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/(https://www.linkedin.com/in/kleinerrr" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/(https://www.linkedin.com/in/Archklein" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:dindin.villamor.ph@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
