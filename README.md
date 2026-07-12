@@ -1,37 +1,30 @@
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <h1>Archklein</h1>
-      <p><strong>Junior Executive Trainee & Aspiring Web Developer</strong></p>
-      <p>Pursuing a BSIT degree at the Philippine College of Technology. I focus on learning web development from the ground up and refining my workflow one project at a time.</p>
-      
-      <br/>
-      
-      <h3>Current Focus</h3>
-      <ul>
-        <li>Mastering core JavaScript concepts</li>
-        <li>Building responsive web applications from scratch</li>
-        <li>Optimizing development workflows and version control</li>
-      </ul>
-    </td>
-    <td valign="top" width="35%">
-      <h3>Stack & Tools</h3>
-      <p>
-        <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code><br/>
-        <code>Git</code> <code>GitHub</code> <code>VS Code</code>
-      </p>
-      
-      <br/>
-      
-      <h3>Connect</h3>
-      <p>
-        <a href="https://linkedin.com/in/kleinerrr">LinkedIn</a><br/>
-        <a href="mailto:dindin.villamor.ph@gmail.com">Email</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=39FF14&background=00000000&width=435&lines=Wake+up%2C+Archklein...;Follow+the+white+rabbit.;archklein%40pct%3A~%24+cat+profile.log" alt="Typing SVG" />
+  </a>
+</p>
 
-<br/>
+```bash
+[ LOADING CORE PROTOCOLS ] ................................ SUCCESS
 
-> "The only way to learn a new programming language is by writing programs in it."
+[ IDENTITY ]
+  User:        Archklein
+  Class:       Junior Executive Trainee // Aspiring Web Developer
+  Node:        Philippine College of Technology (BSIT)
+  Status:      Diving headfirst into web development from scratch.
+
+[ ENVIRONMENT_VARIABLES ]
+  LANGUAGES:   HTML5, CSS3, JavaScript (Learning)
+  TOOLS:       VS Code, Git, GitHub
+  LOC:         Davao City, PH
+
+archklein@pct:~$ cat goals.env
+  > [ ] Master core JavaScript
+  > [ ] Build 5 responsive websites from scratch
+  > [ ] Survive the 0500 wake-up calls & graduate college
+
+archklein@pct:~$ connection --status
+  > LinkedIn:  [https://linkedin.com/in/kleinerrr](https://linkedin.com/in/kleinerrr)
+  > Email:     dindin.villamor.ph@gmail.com
+
+archklein@pct:~$ _
