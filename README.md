@@ -4,14 +4,14 @@
   </a>
 </p>
 
-```bash
-[ IDENTITY ]
-  User:        Archklein
-  Class:       Junior Executive Trainee // Aspiring Web Developer
-  Node:        Philippine College of Technology (BSIT)
-  Status:      Diving headfirst into web development from scratch.
-
-[ ENVIRONMENT_VARIABLES ]
-  LANGUAGES:   HTML5, CSS3, JavaScript (Learning)
-  TOOLS:       VS Code, Git, GitHub
-  LOC:         Davao City, PH
+```diff
++ [ IDENTITY ]
++   User:        Archklein
++   Class:       Junior Executive Trainee // Aspiring Web Developer
++   Node:        Philippine College of Technology (BSIT)
++   Status:      Diving headfirst into web development from scratch.
++ 
++ [ ENVIRONMENT_VARIABLES ]
++   LANGUAGES:   HTML5, CSS3, JavaScript (Learning)
++   TOOLS:       VS Code, Git, GitHub
++   LOC:         Davao City, PH
