@@ -21,10 +21,9 @@
 
 ### 📊 System Metrics (Commit & Language Activity)
 
-<!-- This section updates automatically using github-readme-stats -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Archklein&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archklein&layout=compact&theme=tokyonight&langs_count=7" />
+  <img height="180" src="https://github-readme-stats-eight.vercel.app/api?username=Archklein&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Archklein&layout=compact&theme=tokyonight&langs_count=7" />
 </p>
 
 ---
