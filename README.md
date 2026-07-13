@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archklein&show_icons=true&theme=tokyonight&locale=en" alt="Archklein's GitHub Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Archklein&show_icons=true&theme=tokyonight&locale=en&v=1" alt="Archklein's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archklein&layout=compact&theme=tokyonight&v=1" alt="Most Used Languages" height="200" />
 </p>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=100,green,white&height=120&section=footer)
