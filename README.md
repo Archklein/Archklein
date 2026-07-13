@@ -7,7 +7,7 @@
 # ⚡ System Status: Active
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Archklein&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
 </p>
 
 ---
@@ -23,8 +23,8 @@
 
 <!-- This section updates automatically using github-readme-stats -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=7" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Archklein&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archklein&layout=compact&theme=tokyonight&langs_count=7" />
 </p>
 
 ---
