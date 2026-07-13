@@ -4,8 +4,4 @@
   </a>
 </p>
 
-<!-- This card shows your overall stats (Total Commits, Stars, etc.) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Archklein&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-<!-- This card automatically calculates your top programming languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archklein&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://ghchart.rshah.org/Archklein" alt="My GitHub Contribution Chart" />
