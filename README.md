@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Archklein&show_icons=true&theme=tokyonight" alt="Archklein's GitHub Stats" height="200" />
 </p>
 
