@@ -9,4 +9,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" height="200" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,orange,purple&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,green,white&height=120&section=footer)
