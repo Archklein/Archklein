@@ -5,8 +5,8 @@
 </p>
 
 <p align="start">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Archklein&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Archklein's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Archklein&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" alt="Archklein's GitHub Stats" height="200" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Archklein&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff" alt="Most Used Languages" height="200" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=120&section=footer&v=3)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=120&section=footer&v=4)
