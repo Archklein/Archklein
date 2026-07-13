@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<p align="start">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Archklein&show_icons=true&theme=tokyonight" alt="Archklein's GitHub Stats" height="200" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Archklein&layout=compact&theme=tokyonight" alt="Most Used Languages" height="200" />
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Archklein&show_icons=true&theme=default" alt="Archklein's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Archklein&layout=compact&theme=default" alt="Most Used Languages" height="200" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:00ff00&height=120&section=footer&v=2)
