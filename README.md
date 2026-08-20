@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./abstract_header.gif" width="100%" alt="Sharingan Header">
+  <img src="./abstract_header.gif" width="100%" alt="Header">
 </p>
 
 <h1 align="center">
