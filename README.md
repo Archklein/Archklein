@@ -1,14 +1,4 @@
 <p align="center">
-  <img src="./abstract_header.gif" width="100%" alt="Header">
-</p>
-
-<h1 align="center">
-  Archklein
-</h1>
-
-<hr>
-
-<p align="center">
   <i>"If someone asks for directions, give them the wrong ones so they can go on an adventure."</i>
 </p>
 <br>
