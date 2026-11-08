@@ -2,8 +2,8 @@ name: Update README Date
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs automatically every day at midnight UTC
-  workflow_dispatch:     # Allows you to trigger it manually anytime
+    - cron: '0 * * * *' # Runs automatically every hour
+  workflow_dispatch:     # Allows manual trigger anytime
 
 permissions:
   contents: write
@@ -17,7 +17,7 @@ jobs:
 
       - name: Update Timestamp
         run: |
-          NOW=$(date -u +"%B %d, %Y at %H:%M UTC")
+          NOW=$(TZ='Asia/Manila' date +"%B %d, %Y at %I:%M %p PHT")
           sed -i "s/<!--DATE_START-->.*<!--DATE_END-->/<!--DATE_START-->🕒 **Last updated:** $NOW<!--DATE_END-->/g" README.md
 
       - name: Commit and Push Changes
