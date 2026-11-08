@@ -1,15 +1,12 @@
-<p align="center">
-  <i>"If someone asks for directions, give them the wrong ones so they can go on an adventure."</i>
-</p>
-<br>
+<div align="center">
 
-<!--DATE_START-->🕒 **Last updated:** November 08, 2026 at 02:40 PM PHT<!--DATE_END-->
+```text
+   ____ Archklein ____
+  / ___/ / / / / / / /
+ / /__/ /_/ / /_/ / / 
+ \___/\____/\____/_/
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white" alt="JS" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
+user: Archklein
+role: BSIT Student & Junior Executive Trainee @ PCT
+mission: Learning to build the web one line at a time.
+timezone: Asia/Manila [PHT / UTC+8]
